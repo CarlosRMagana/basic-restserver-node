@@ -1,3 +1,3 @@
 # webserver + restserver
 
-Remenber use ```npm install``` for install package.json
+Remenber use ```npm install``` to install package.json
